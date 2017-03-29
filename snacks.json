@@ -1,0 +1,265 @@
+{
+  "data": "Would you like a salty snack?",
+  "yes": {
+    "data": "Would you like chips?",
+    "yes": {
+      "data": "Would you like potato chips?",
+      "yes": {
+        "data": "Would you like BBQ flavoring",
+        "yes": {
+          "data": "Get Lays BBQ Chips"
+        },
+        "no": {
+          "data": "Do you want a thin chip?",
+          "yes":{
+            "data": "Get Lays Potato Chips"
+          },
+          "no":{
+            "data": "Get TGI Fridays Potato Skins"
+          }
+        }
+      },
+      "no": {
+        "data": "Would you like cheese?",
+        "yes": {
+          "data": "Do you want a spicy snack?",
+          "yes": {
+            "data": "Get Hot Cheetos"
+          },
+          "no": {
+            "data": "Do you want a tortilla chip?",
+            "yes": {
+              "data": "Get Doritos"
+            },
+            "no":{
+              "data": "Get Cheetos"
+            }
+          }
+        },
+        "no": {
+          "data": "Do you want a ranch flavor",
+          "yes": {
+            "data": "Get Cool Ranch Doritos"
+          },
+          "no": {
+            "data": "Do you want a thin chip?",
+            "yes": {
+              "data": "Get Sunchips"
+            },
+            "no": {
+              "data": "Get Fritos"
+            }
+          }
+        }
+      }
+    },
+    "no": {
+      "data": "Would you like cheese?",
+      "yes": {
+        "data": "Would you like a square shaped snack?",
+        "yes": {
+          "data": "Get Cheez-Its."
+        },
+        "no": {
+          "data": "Get Goldfish."
+        }
+      },
+      "no": {
+        "data": "Would you corn?",
+        "yes": {
+          "data": "Get Corn Nuts"
+        },
+        "no": {
+          "data": "Do you want a snack mix?",
+          "yes": {
+            "data": "Get Chex Mix."
+          },
+          "no": {
+            "data": "Get Pretzels."
+          }
+        }
+      }
+    }
+  },
+  "no": {
+    "data": "Would you like a sweet snack?",
+    "yes": {
+      "data": "Would you like a candy snack?",
+      "yes": {
+        "data": "Would you like chocolate?",
+        "yes": {
+          "data": "Would you like a nut flavor?",
+          "yes":{
+            "data": "Would you like peanut butter?",
+            "yes":{
+              "data": "Would you like bite size?",
+              "yes":{
+                "data": "Get Reeses pieces."
+              },
+              "no":{
+                "data": "Get peanutbutter cups."
+              }
+            },
+            "no":{
+              "data": "Would you like caramel?",
+              "yes": {
+                "data": "Get a Snickers."
+              },
+              "no": {
+                "data": "Get peanut M&Ms."
+              }
+            }
+          },
+          "no":{
+            "data": "Would you like caramel?",
+            "yes":{
+              "data": "Would you like cookie?",
+              "yes":{
+                "data": "Get a Twix."
+              },
+              "no":{
+                "data": "Get a Milky Way bar."
+              }
+            },
+            "no":{
+              "data": "Would you like cookie?",
+              "yes":{
+                "data": "Get a Kit Kat"
+              },
+              "no": {
+                "data": "Would you like something crunchy?",
+                "yes":{
+                  "data": "Would you like Rice Crispies?",
+                  "yes": {
+                    "data": "Get a Crunch bar."
+                  },
+                  "no": {
+                    "data": "Get a Butterfinger."
+                  }
+                },
+                "no":{
+                 "data": "Would you like whipped chocolate filling?",
+                 "yes":{
+                   "data": "Get a 3 Musketeers."
+                 },
+                 "no":{
+                   "data": "Would you like a bite size snack?",
+                   "yes":{
+                     "data": "Get M&Ms."
+                   },
+                   "no":{
+                     "data": "Get a Hershey's bar."
+                   }
+                 }
+               }
+              }
+            }
+          },
+        "no": {
+          "data": "Would you like a fruit flavor?",
+          "yes":{
+            "data": "Do you want a candy shell?",
+            "yes":{
+              "data": "Get Skittles"
+            },
+            "no":{
+              "data": "Do you want a gummy snack?",
+              "yes": {
+                "data": "Get Welches Fruit Snacks."
+              },
+              "no": {
+                "data": "Get Starbursts."
+              }
+            }
+          },
+          "no":{
+            "data": "Would you like nuts?",
+            "yes":{
+              "data": "Get a Pay Day."
+            },
+            "no":{
+              "data": "Get a Hershey's Cookies & Creme"
+            }
+          }
+        }
+        }
+      },
+      "no": {
+        "data": "Would you like a baked snack?",
+        "yes":{
+          "data": "Do you want a creme filling?",
+          "yes":{
+            "data": "Would you like a cookie?",
+            "yes":{
+              "data": "Would you like chocolate?",
+              "yes":{
+                "data": "Get Oreos"
+              },
+              "no":{
+                "data": "Get Snackwells Sandwich Cookies."
+              }
+            }
+          },
+          "no":{
+            "data": "Would you like a fruit flavor?",
+            "yes":{
+              "data": "Get a Fruit Pie"
+            },
+            "no":{
+              "data": "Would you like something crunchy?",
+              "yes":{
+                "data": "Would you like a cookie?",
+                "yes": {
+                  "data": "Get Famous Amos."
+                },
+                "no": {
+                  "data": "Get a Rice Crispy Treat"
+                }
+              },
+              "no":{
+                "data": "Get a Honey Bun"
+              }
+            }
+          }
+
+        },
+        "no":{
+          "data": "There's no snack for you."
+        }
+      }
+    },
+    "no": {
+      "data": "Would you like a minty snack?",
+      "yes": {
+        "data": "Would you like gum?",
+        "yes":{
+          "data": "Would you like a candy shell?",
+          "yes":{
+            "data": "Get Excel gum."
+          },
+          "no": {
+            "data": "Get Trident gum."
+          }
+        },
+        "no":{
+          "data": "Would you like chocolate?",
+          "yes":{
+            "data": "Get Junior Mints"
+          },
+          "no":{
+            "data": "Do you want a hard mint?",
+            "yes":{
+              "data": "Get Tic Tacs"
+            },
+            "no": {
+              "data": "Get Mentos"
+            }
+          }
+        }
+      },
+      "no": {
+        "data": "There is no snack for you."
+      }
+    }
+  }
+}
